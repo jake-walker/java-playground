@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Guestbook",
+      "request": "launch",
+      "mainClass": "Guestbook",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - WordsInSentence",
+      "request": "launch",
+      "mainClass": "WordsInSentence"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Palindrome",
+      "request": "launch",
+      "mainClass": "Palindrome"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ReverseString",
+      "request": "launch",
+      "mainClass": "ReverseString"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HelloWorld",
+      "request": "launch",
+      "mainClass": "HelloWorld"
+    }
+  ]
+}
